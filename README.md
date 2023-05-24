@@ -8,7 +8,7 @@ TypeScript, GoLang, Rust,
 
 ### Favorite tools
 
-Torque Wrench, Flat 15mm Wrench, CLion, GoLand
+Torque Wrench, Flat 15mm Wrench, Vim
 
 ### Philosophy
 
