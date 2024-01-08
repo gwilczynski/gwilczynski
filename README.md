@@ -5,7 +5,9 @@ Guided by a natural talent in strategic thinking, I am passionate about navigati
 What I bring to the table:
 
 🧠 Deep analytical insights to break down complex scenarios.
+
 🚀 A forward-thinking approach, ensuring sustainable growth and innovation.
+
 🤝 Collaborative spirit, partnering with teams to turn vision into actionable strategy.
 
 Input | Deliberative | Connectedness | Intellection | Ideation
